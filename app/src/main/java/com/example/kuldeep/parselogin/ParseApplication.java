@@ -10,7 +10,7 @@ import com.parse.ParseUser;
  * Created by Kuldeep on 2/19/2015.
  */
 
-//kuldeep chanaged the project......
+//kuldeep chanaged the project again
 public class ParseApplication extends Application {
     @Override
     public void onCreate() {
